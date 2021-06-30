@@ -1,4 +1,4 @@
-FROM python:3.8.9-slim-buster
+FROM python:3.10.0b2-slim-buster
 
 ENV DEBIAN_FRONTEND noninteractive
 

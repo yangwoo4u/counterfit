@@ -21,3 +21,6 @@ lightgbm==3.1.1
 
 # testing framework
 pytest==6.1.1
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.52.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
